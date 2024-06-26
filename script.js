@@ -79,3 +79,4 @@ addProductForm.addEventListener('submit', function(event) {
     // Update the displayed inventory
     displayInventory();
 });
+

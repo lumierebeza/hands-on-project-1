@@ -14,7 +14,7 @@ table {
 }
 
 table, th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #573aae;
 }
 
 th, td {
@@ -23,17 +23,24 @@ th, td {
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #5a44e9;
 }
 
 #add-product-form {
     max-width: 400px;
     margin: 20px auto;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #b54040;
+    background-color: rgb(99, 134, 250);
+    border-radius: 20px;
 }
 
 #add-product-form h2 {
     margin-top: 0;
 
+}
+.styled-button{
+    background-color: green;
+    color:rgb(253, 254, 253);
+    border-radius: 10px;
 }
